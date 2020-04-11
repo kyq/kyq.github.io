@@ -9,7 +9,11 @@ redirect_from:
 ---
 
 
+[caption id="attachment_321" align="aligncenter" width="397"]<img class="  wp-image-321 aligncenter" src="https://beyondthepointclouds.files.wordpress.com/2015/11/linlithgow_combination.png" alt="linlithgow_combination" width="397" height="255" /> Some works on Linlithgow Palace - Scotland[/caption]
 
+I'm a researcher learning about Scottish environment and history. Passionate about laser scanning and photogrammetry, I work on reality capture and data processing. Currently, applying IT to the built environment, especially Heritage buildings.
+
+Also, you can see me running around Edinburgh!
 
 This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
