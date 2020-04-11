@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Enrique Valero / Personal Website"
+title                    : "Enrique Valero | Personal Website"
 title_separator          : " | "
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -86,7 +86,7 @@ author:
   location         : "Edinburgh"
   employer         : "University of Edinburgh"
   pubmed           : 
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.co.uk/citations?user=bPEg6zQAAAAJ&hl=en"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
