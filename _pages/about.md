@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Enrique Valero | Personal website"
+title: "Enrique Valero"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
