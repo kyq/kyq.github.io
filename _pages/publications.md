@@ -12,10 +12,9 @@ If you would like a copy of any of these publications, please <a href="/contact/
 
 <h4>Under preparation</h4>
 
-<div>
-<div><em>Development of an Open Source Scan&BIM Platform </em>
+<span><div><em>Development of an Open Source Scan&BIM Platform </em>
 </div>
-E Valero, D D Mohanty, F Bosché
+E Valero, D D Mohanty, F Bosché </span>
 
 
 <h4>2020</h4>
@@ -25,10 +24,10 @@ E Valero, D D Mohanty, F Bosché
 
 <h4>2019</h4>
 
-<div><em>Integration of Computer Vision and Wireless Networks to Provide Indoor Positioning</em></div>
-J Duque, J Gomez-Garcia-Bermejo, E Zalama, C Cerrada, E Valero. Sensors, 2019, 19(24), 5495 [<a href="https://www.mdpi.com/1424-8220/19/24/5495">url</a>].
-<div><em>Automated Defect Detection and Classification in Ashlar Masonry Walls using Machine Learning </em></div>
-E Valero, A Forster, F Bosché, E Hyslop, L Wilson, A Turmel - Automation in Construction, 2019, 106, 102846 [<a href="https://www.sciencedirect.com/science/article/pii/S0926580518312676">url</a>].
+<span><div><em>Integration of Computer Vision and Wireless Networks to Provide Indoor Positioning</em></div>
+J Duque, J Gomez-Garcia-Bermejo, E Zalama, C Cerrada, E Valero. Sensors, 2019, 19(24), 5495 [<a href="https://www.mdpi.com/1424-8220/19/24/5495">url</a>].</span>
+<span><div><em>Automated Defect Detection and Classification in Ashlar Masonry Walls using Machine Learning </em></div>
+E Valero, A Forster, F Bosché, E Hyslop, L Wilson, A Turmel - Automation in Construction, 2019, 106, 102846 [<a href="https://www.sciencedirect.com/science/article/pii/S0926580518312676">url</a>].</span>
 
 <h4>2018</h4>
 

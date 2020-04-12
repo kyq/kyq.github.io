@@ -16,7 +16,7 @@ permalink: /links/
 <div><a href="http://bimerr.eu/">BIMERR Project</a>. Design and development of a new toolkit to support renovation stakeholders during the renovation process of existing buildings, from concept to delivery.
  </div>
 
-<span><a href="http://ice.hw.ac.uk/">ICE Project</a>. An Immersive and Controlled Environment for Construction Training </span>
+<div><a href="http://ice.hw.ac.uk/">ICE Project</a>. An Immersive and Controlled Environment for Construction Training </div>
 
 <div><a href="http://urbanplanar.com/">UrbanPlanAR</a>. The future of urban visualisation</div>
 
