@@ -8,10 +8,10 @@ author_profile: true
 
 <style>
   .bottom1 {
-     margin-bottom: 1cm;
+     margin-bottom: 0.1cm;
   }
   .bottom3 {
-     margin-bottom: 3cm;
+     margin-bottom: 0.5cm;
   }
 </style>
 
