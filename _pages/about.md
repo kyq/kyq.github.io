@@ -12,13 +12,6 @@ redirect_from:
 <head>
     <style>
         p { text-align:justify; }
-		figcaption {
-    background-color: #222;
-    color: #fff;
-    font: italic smaller sans-serif;
-    padding: 3px;
-    text-align: center;
-	}
     </style>
 </head>
 
