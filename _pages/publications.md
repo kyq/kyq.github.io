@@ -6,15 +6,6 @@ excerpt: ""
 author_profile: true
 ---
 
-<style>
-  .bottom1 {
-     margin-bottom: 5px;
-  }
-  .bottom3 {
-     margin-bottom: 10px;
-  }
-</style>
-
 <strong>Journal  <span style="color:#00ccff;">Conference Paper</span>  <span style="color:#000080;"><span style="color:#000000;"><span style="color:#0da4d3;">Technical Report </span> <span style="color:#0000ff;">Book/chapter</span></span></span></strong>
 
 If you would like a copy of any of these publications, please <a href="/contact/">email me</a> or have a look at my <a href="https://www.research.ed.ac.uk/portal/en/persons/enrique-valero-rodriguez(96f73e8e-f998-47ab-9fa3-6d4ca670a3e5).html">research profile</a> at the University of Edinburgh.
