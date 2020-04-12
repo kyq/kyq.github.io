@@ -12,12 +12,8 @@ redirect_from:
 <head>
     <style>
         p { text-align:justify; }
-		div { text-align:centre; }
-		figure {
+		figcaption {
 		  text-align: center;
-		  font-style: italic;
-		  font-size: smaller;
-		  text-indent: 0;
 		}
 		
     </style>
