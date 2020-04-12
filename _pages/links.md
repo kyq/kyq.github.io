@@ -8,7 +8,7 @@ permalink: /links/
 <div><a href="https://cyberbuild.eng.ed.ac.uk/"><img class="alignnone wp-image-118" src="https://beyondthepointclouds.files.wordpress.com/2015/11/cyberbuild_square.png?w=300" alt="cyberbuild_square" width="99" height="99" /></a></div>
 <a href="http://www.ed.ac.uk" target="_blank" rel="noopener">The University of Edinburgh</a>, Edinburgh (UK)
 
-<em><span style="color:#000000;">I also collaborate with</span></em>
+<span style="color:#000000;">I also collaborate with</span>
 <a href="http://www.issi.uned.es/">Departamento de </a><span class="style2"><a href="http://www.issi.uned.es/">Ingeniería de Software y Sistemas Informáticos</a>. UNED, Madrid (Spain)</span>
 
 <strong>Projects and people</strong>
