@@ -6,15 +6,24 @@ excerpt: ""
 author_profile: true
 ---
 
+<style>
+  .bottom1 {
+     margin-bottom: 1cm;
+  }
+  .bottom3 {
+     margin-bottom: 3cm;
+  }
+</style>
+
 <strong>Journal  <span style="color:#00ccff;">Conference Paper</span>  <span style="color:#000080;"><span style="color:#000000;"><span style="color:#0da4d3;">Technical Report </span> <span style="color:#0000ff;">Book/chapter</span></span></span></strong>
 
 If you would like a copy of any of these publications, please <a href="/contact/">email me</a> or have a look at my <a href="https://www.research.ed.ac.uk/portal/en/persons/enrique-valero-rodriguez(96f73e8e-f998-47ab-9fa3-6d4ca670a3e5).html">research profile</a> at the University of Edinburgh.
 
 <h4>Under preparation</h4>
 
-<div><em>Development of an Open Source Scan&BIM Platform </em>
+<div class = "bottom1"><em>Development of an Open Source Scan&BIM Platform </em></div>
 
-E Valero, D D Mohanty, F Bosché </div>
+<div class = "bottom3">E Valero, D D Mohanty, F Bosché </div>
 
 
 <h4>2020</h4>
@@ -24,8 +33,8 @@ E Valero, D D Mohanty, F Bosché </div>
 
 <h4>2019</h4>
 
-<div><em>Integration of Computer Vision and Wireless Networks to Provide Indoor Positioning</em></div>
-J Duque, J Gomez-Garcia-Bermejo, E Zalama, C Cerrada, E Valero. Sensors, 2019, 19(24), 5495 [<a href="https://www.mdpi.com/1424-8220/19/24/5495">url</a>].
+<div class = "bottom1"><em>Integration of Computer Vision and Wireless Networks to Provide Indoor Positioning</em></div>
+<div class = "bottom3">J Duque, J Gomez-Garcia-Bermejo, E Zalama, C Cerrada, E Valero. Sensors, 2019, 19(24), 5495 [<a href="https://www.mdpi.com/1424-8220/19/24/5495">url</a>]. </div>
 
 <div><em>Automated Defect Detection and Classification in Ashlar Masonry Walls using Machine Learning </em></div>
 E Valero, A Forster, F Bosché, E Hyslop, L Wilson, A Turmel - Automation in Construction, 2019, 106, 102846 [<a href="https://www.sciencedirect.com/science/article/pii/S0926580518312676">url</a>].
