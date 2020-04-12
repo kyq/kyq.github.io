@@ -8,15 +8,15 @@ permalink: /links/
 <div><a href="https://cyberbuild.eng.ed.ac.uk/"><img class="alignnone wp-image-118" src="https://beyondthepointclouds.files.wordpress.com/2015/11/cyberbuild_square.png?w=300" alt="cyberbuild_square" width="99" height="99" /></a></div>
 <a href="http://www.ed.ac.uk" target="_blank" rel="noopener">The University of Edinburgh</a>, Edinburgh (UK)
 
-<span style="color:#000000;">I also collaborate with</span>
-<a href="http://www.issi.uned.es/">Departamento de </a><span class="style2"><a href="http://www.issi.uned.es/">Ingeniería de Software y Sistemas Informáticos</a>. UNED, Madrid (Spain)</span>
+<span>I also collaborate with</span>
+<a href="http://www.issi.uned.es/">Departamento de Ingeniería de Software y Sistemas Informáticos</a>. UNED, Madrid (Spain)</span>
 
 <strong>Projects and people</strong>
 
 <div><a href="http://bimerr.eu/">BIMERR Project</a>. Design and development of a new toolkit to support renovation stakeholders during the renovation process of existing buildings, from concept to delivery.
  </div>
 
-<div><a href="http://ice.hw.ac.uk/">ICE Project</a>. An Immersive and Controlled Environment for Construction Training </div>
+<span><a href="http://ice.hw.ac.uk/">ICE Project</a>. An Immersive and Controlled Environment for Construction Training </span>
 
 <div><a href="http://urbanplanar.com/">UrbanPlanAR</a>. The future of urban visualisation</div>
 
