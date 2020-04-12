@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Enrique Valero | Personal Website"
+title                    : "Enrique Valero"
 title_separator          : " | "
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Enrique Valero"
+  name             : 
   avatar           : "profile.png"
   bio              : #"Resarch Associate"
   location         : 

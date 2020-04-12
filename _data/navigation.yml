@@ -5,6 +5,9 @@ main:
   
   - title: "Research"
     url: /research/
+
+  - title: "Resources"
+    url: /resources/
     
   - title: "Links"
     url: /links/  
@@ -12,9 +15,6 @@ main:
   - title: "Contact"
     url: /contact/
 
-  - title: "Resources"
-    url: /resources/
+
             
-  - title: "Blog Posts"
-    url: /year-archive/
     
