@@ -12,7 +12,7 @@ redirect_from:
 <head>
     <style>
         p { text-align:justify; }
-		figcaption {text-align:centre;}
+		p.cap {text-align:centre;}
     </style>
 </head>
 
@@ -20,7 +20,7 @@ redirect_from:
 
  <figure>
 	<img class="  wp-image-321 aligncenter" src="https://beyondthepointclouds.files.wordpress.com/2015/11/linlithgow_combination.png" alt="linlithgow_combination" width="397" height="255" /> 
-	<figcaption>Some works on Linlithgow Palace - Scotland</figcaption>
+	<figcaption><p.cap>Some works on Linlithgow Palace - Scotland</p.cap></figcaption>
 </figure> 
 
 <p>I'm a researcher learning about Scottish environment and history. Passionate about laser scanning and photogrammetry, I work on reality capture and data processing. Currently, applying IT to the built environment, especially Heritage buildings.</p>
@@ -31,4 +31,3 @@ redirect_from:
 
 
 </body>
-</html>
