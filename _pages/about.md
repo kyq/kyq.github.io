@@ -12,9 +12,6 @@ redirect_from:
 <head>
     <style>
         p { text-align:justify; }
-		figcaption {
-		  text-align: center;
-		}
 		
     </style>
 </head>
@@ -22,7 +19,7 @@ redirect_from:
 <body>
 
  <figure>
-	<img class="  wp-image-321 aligncenter" src="https://beyondthepointclouds.files.wordpress.com/2015/11/linlithgow_combination.png" alt="linlithgow_combination" width="397" height="255" /> 
+	<img class="  wp-image-321 aligncenter" src="/images/linlithgow_combination.png" alt="linlithgow_combination" width="397" height="255" /> 
 	<figcaption>Some works on Linlithgow Palace - Scotland</figcaption>
 </figure> 
 
