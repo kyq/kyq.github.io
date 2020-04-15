@@ -16,8 +16,7 @@ redirect_from:
 		  display: block;
 		  margin-left: auto;
 		  margin-right: auto;
-		  width: 99%;
-		  height: 99%;
+
 		}
     </style>
 </head>
