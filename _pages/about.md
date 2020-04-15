@@ -18,7 +18,7 @@ redirect_from:
 <body>
 
  <figure>
-	<img class="  wp-image-321 aligncenter" src="/images/linlithgow_combination.png" alt="linlithgow_combination" width="194" height="128" /> 
+	<img class="  wp-image-321 aligncenter" src="/images/linlithgow_combination.png" alt="linlithgow_combination" style="width:194px;height:128px;" /> 
 	
 </figure> 
 
