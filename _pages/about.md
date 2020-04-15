@@ -17,7 +17,6 @@ redirect_from:
 		  margin-left: auto;
 		  margin-right: auto;
 		  width: 50%;
-		  height: 50%;
 		}
     </style>
 </head>
@@ -25,7 +24,7 @@ redirect_from:
 <body>
 
  <figure>
-	<img class="center" src="/images/linlithgow_combination.png" alt="linlithgow_combination" style="width:297px;height:255px;" /> 
+	<img class="center" src="/images/linlithgow_combination.png" alt="linlithgow_combination" style="width:594px;height:255px;" /> 
 	
 </figure> 
 
