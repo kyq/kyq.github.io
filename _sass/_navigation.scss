@@ -405,8 +405,8 @@
     border-bottom: 1px solid $border-color;
 
     &:hover {
-      color: #5bb8d7;
-      background: #5bb8d7;
+      color: #000;
+      background: $lighter-gray;
     }
   }
 
