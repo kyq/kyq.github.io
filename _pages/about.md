@@ -19,7 +19,7 @@ redirect_from:
 
  <figure>
 	<img class="  wp-image-321 aligncenter" src="/images/linlithgow_combination.png" alt="linlithgow_combination" width="397" height="255" /> 
-	<figcaption>""</figcaption>
+	
 </figure> 
 
 <p>I'm a researcher learning about Scottish environment and history. Passionate about laser scanning and photogrammetry, I work on reality capture and data processing. Currently, applying IT to the built environment, especially Heritage buildings.</p>
