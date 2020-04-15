@@ -12,6 +12,12 @@ redirect_from:
 <head>
     <style>
         p { text-align:justify; }
+		.center {
+		  display: block;
+		  margin-left: auto;
+		  margin-right: auto;
+		  width: 50%;
+		}
     </style>
 </head>
 
