@@ -327,7 +327,6 @@
 
     &:hover {
       text-decoration: underline;
-	  color: #5bb8d7;
     }
   }
 
@@ -341,8 +340,7 @@
     border-radius: $border-radius;
 
     &:hover {
-      color: #5bb8d7;
-	  
+      color: #fff;
     }
   }
 }
@@ -407,8 +405,8 @@
     border-bottom: 1px solid $border-color;
 
     &:hover {
-      color: #000;
-      background: $lighter-gray;
+      color: #5bb8d7;
+      background: #5bb8d7;
     }
   }
 
