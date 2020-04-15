@@ -17,6 +17,7 @@ redirect_from:
 		  margin-left: auto;
 		  margin-right: auto;
 		  width: 99%;
+		  height: 99%;
 		}
     </style>
 </head>
