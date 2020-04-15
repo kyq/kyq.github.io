@@ -24,7 +24,7 @@ redirect_from:
 <body>
 
  <figure>
-	<img class="center" src="/images/linlithgow_combination.png" alt="linlithgow_combination" style="width:594px;height:255px;" /> 
+	<img class="center" src="/images/linlithgow_combination.png" alt="linlithgow_combination" style="width:446px;height:255px;" /> 
 	
 </figure> 
 
