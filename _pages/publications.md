@@ -24,7 +24,7 @@ E Valero, D D Mohanty, F Bosché
 
 <h4>2019</h4>
 
-<div><em>Integration of Computer Vision and Wireless Networks to Provide Indoor Positioning</em></div>
+<p style="margin-bottom:4px;"><div><em>Integration of Computer Vision and Wireless Networks to Provide Indoor Positioning</em></div>
 J Duque, J Gomez-Garcia-Bermejo, E Zalama, C Cerrada, E Valero. Sensors, 2019, 19(24), 5495 [<a href="https://www.mdpi.com/1424-8220/19/24/5495">url</a>]. </p>
 
 <div><em>Automated Defect Detection and Classification in Ashlar Masonry Walls using Machine Learning </em></div>
