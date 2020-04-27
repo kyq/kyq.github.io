@@ -18,72 +18,87 @@ E Valero, D D Mohanty, F Bosché
 
 <h4>2020</h4>
 
-<div><span style="color:#00ccff;"><em>Development of a novel open tool for the segmentation of 3D point clouds of masonry walls </em></span></div>
-
-<span style="color:#00ccff;">E Valero, F Bosché, A Forster, I M'Beirick, L Wilson, A Turmel, E Hyslop - Accepted in Stone 2020.</span>
+<p style="margin-bottom:4px;"><div><span style="color:#00ccff;"><em>Development of a novel open tool for the segmentation of 3D point clouds of masonry walls </em></span></div>
+<span style="color:#00ccff;">E Valero, F Bosché, A Forster, I M'Beirick, L Wilson, A Turmel, E Hyslop - Accepted in Stone 2020.</span></p>
 
 <h4>2019</h4>
 
 <p style="margin-bottom:4px;"><div><em>Integration of Computer Vision and Wireless Networks to Provide Indoor Positioning</em></div>
 J Duque, J Gomez-Garcia-Bermejo, E Zalama, C Cerrada, E Valero. Sensors, 2019, 19(24), 5495 [<a href="https://www.mdpi.com/1424-8220/19/24/5495">url</a>]. </p>
 
-<div><em>Automated Defect Detection and Classification in Ashlar Masonry Walls using Machine Learning </em></div>
-E Valero, A Forster, F Bosché, E Hyslop, L Wilson, A Turmel - Automation in Construction, 2019, 106, 102846 [<a href="https://www.sciencedirect.com/science/article/pii/S0926580518312676">url</a>].
+<p style="margin-bottom:4px;"><div><em>Automated Defect Detection and Classification in Ashlar Masonry Walls using Machine Learning </em></div>
+E Valero, A Forster, F Bosché, E Hyslop, L Wilson, A Turmel - Automation in Construction, 2019, 106, 102846 [<a href="https://www.sciencedirect.com/science/article/pii/S0926580518312676">url</a>].</p>
 
 <h4>2018</h4>
 
-<div><span style="color:#00ccff;"><em>Mejoras en el algoritmo de posicionamiento en interiores mediante sensores RGB-D y redes WiFi </em></span></div>
+<p style="margin-bottom:4px;"><div><span style="color:#00ccff;"><em>Mejoras en el algoritmo de posicionamiento en interiores mediante sensores RGB-D y redes WiFi </em></span></div>
 <span style="color:#00ccff;">J Duque, C Cerrada, E Valero - XXXIX Jornadas de Automática. September 2018, Badajoz, Spain. BEST PAPER IN COMPUTER VISION AWARD.
-</span>
-<div><em>Automatic Segmentation of 3D Point Clouds of Rubble Masonry Walls, and its Application to Building Surveying, Repair and Maintenance</em></div>
-E Valero, F Bosché, A Forster - Automation in Construction, 2018, 96, 29-39 [<a href="https://www.sciencedirect.com/science/article/pii/S0926580517309895">url</a>].
-<div><em>Assessment of Compliance of Dimensional Tolerances in Concrete Slabs Using TLS Data and the 2D Continuous Wavelet Transform</em></div>
-N Puri, E Valero, Y Turkan, F Bosché - Automation in Construction, 2018, 94, 62-72 [<a href="https://doi.org/10.1016/j.autcon.2018.06.004">url</a>].
-<div><span style="color:#00ccff;"><em>Historic Digital Survey: Reality Capture and Automatic Data Processing for the Interpretation and Analysis of Historic Architectural Rubble Masonry </em></span></div>
+</span></p>
+
+<p style="margin-bottom:4px;"><div><em>Automatic Segmentation of 3D Point Clouds of Rubble Masonry Walls, and its Application to Building Surveying, Repair and Maintenance</em></div>
+E Valero, F Bosché, A Forster - Automation in Construction, 2018, 96, 29-39 [<a href="https://www.sciencedirect.com/science/article/pii/S0926580517309895">url</a>].</p>
+
+<p style="margin-bottom:4px;"><div><em>Assessment of Compliance of Dimensional Tolerances in Concrete Slabs Using TLS Data and the 2D Continuous Wavelet Transform</em></div>
+N Puri, E Valero, Y Turkan, F Bosché - Automation in Construction, 2018, 94, 62-72 [<a href="https://doi.org/10.1016/j.autcon.2018.06.004">url</a>].</p>
+
+<p style="margin-bottom:4px;"><div><span style="color:#00ccff;"><em>Historic Digital Survey: Reality Capture and Automatic Data Processing for the Interpretation and Analysis of Historic Architectural Rubble Masonry </em></span></div>
 <span style="color:#00ccff;">E Valero, F Bosché, A Forster, E Hyslop - SAHC 2018. Cusco, (Peru), September, 2018, Cusco, Peru. [<a href="https://books.google.co.uk/books?hl=en&lr=&id=-ypqDwAAQBAJ&oi=fnd&pg=PA388&ots=Td4PNpuOcE&sig=bRCd8XRl_4M85ZWgTitb5zDpPps#v=onepage&q&f=false">url</a>]
-</span>
+</span></p>
 <div>
-<div><span style="color:#00ccff;"><em>High Level-of-Detail BIM and Machine Learning for Automated Masonry Wall Defect Surveying</em></span></div>
+
+<p style="margin-bottom:4px;"><div><span style="color:#00ccff;"><em>High Level-of-Detail BIM and Machine Learning for Automated Masonry Wall Defect Surveying</em></span></div>
 <span style="color:#00ccff;">E Valero, A Forster, F Bosché, C Renier, E Hyslop, L Wilson - 35th International Symposium on Automation and Robotics in Construction (ISARC). Berlin (Germany), July, 2018. BEST PAPER AWARD. [<a href="http://www.iaarc.org/publications/fulltext/ISARC2018-Paper163.pdf">url</a>]
-</span>
+</span></p>
 
 <h4>2017</h4>
 
-<div><em>An Improved Indoor Positioning System Using RGB-D Cameras and Wireless Networks for Use in Complex Environments </em></div>
-J Duque, C Cerrada, E Valero, J Cerrada - Sensors, 2017, 17(10), 2391 [<a href="http://www.mdpi.com/1424-8220/17/10/2391">url</a>].
-<div><em>Analysis of Construction Trade Worker Body Motions Using a Wearable and Wireless Motion Sensor Network</em></div>
-E Valero, A Sivanathan, F Bosché, M Abdel-Wahab - Automation in Construction, 2017, 83, 48-55 [<a href="https://authors.elsevier.com/a/1VdzH3IhXMblHM">url</a>].
-<div><span style="color:#00ccff;"><em>A Semantic Approach to Enrich User Experience in Museums through Indoor Positioning </em></span></div>
-<span style="color:#00ccff;">J Duque, C Cerrada, E Valero, J Cerrada - Ubiquitous Computing and Ambient Intelligence: 11th International Conference, UCAmI 2017, Philadelphia, PA, USA, November, 2017, 612-623 [<a href="https://link.springer.com/chapter/10.1007/978-3-319-67585-5_60">url</a>]. </span>
-<div><span style="color:#00ccff;"><em>Historic Digital Survey: Towards Objective, Safe and Cost-Effective Surveys of Historic Buildings </em></span></div>
-<span style="color:#00ccff;">E Valero, F Bosché, A Forster, L Wilson, A Leslie, E Hyslop - Global Challenges in Cultural Heritage: Inaugural International Conference. Stirling (UK), September, 2017. </span>
-<div><span style="color:#00ccff;"><em>Locating multiple camera sensors and wireless access points for a Generalized Indoor Positioning System</em></span></div>
-<span style="color:#00ccff;">J Duque, C Cerrada, E Valero, J Cerrada - The 13th International Conference on Wireless and Mobile Communications. Nice (France), July, 2017 [<a href="http://www.thinkmind.org/index.php?view=article&articleid=icwmc_2017_3_20_20082">url</a>]. </span>
-<div><span style="color:#00ccff;"><em>Experiencias de predicción para un sistema de posicionamiento de uso en recintos de interior basado en cámaras 3D de bajo coste y redes inalámbricas </em></span></div>
-<span style="color:#00ccff;">J Duque, C Cerrada, E Valero, J Cerrada - Jornadas Nacionales de Robótica. Valencia (Spain), June, 2017. </span>
-<div><span style="color:#00ccff;"><em>UrbanPlanAR: BIM Mobile Visualisation in Urban Environments with Occlusion-Aware Augmented Reality</em></span></div>
-<span style="color:#00ccff;">L Carozza, E Valero, F Bosché, G Banfill, R Mall, M Nguyen - Lean & Computing in Construction Congress. Heraklion (Greece), July, 2017 [<a href="http://itc.scix.net/data/works/att/LC3_2017_paper_152.pdf">url</a>]</span>
-<div><em>Deciphering Egyptian hieroglyphs: towards a new strategy for navigation in museums</em></div>
-J Duque, PJ Herrera, E Valero, C Cerrada - Sensors, 2017, 17(3), 589 [<a href="http://www.mdpi.com/1424-8220/17/3/589">url</a>]
+<p style="margin-bottom:4px;"><div><em>An Improved Indoor Positioning System Using RGB-D Cameras and Wireless Networks for Use in Complex Environments </em></div>
+J Duque, C Cerrada, E Valero, J Cerrada - Sensors, 2017, 17(10), 2391 [<a href="http://www.mdpi.com/1424-8220/17/10/2391">url</a>].</p>
 
-<span style="color:#0000ff;"><em>Evaluation of Historic Masonry Substrates: Towards Greater Objectivity and Efficiency</em></span>
-<span style="color:#0000ff;"> E Valero, F Bosché, A Forster, L Wilson, A Leslie - in Heritage Building Information Modelling, Routledge. ISBN 9781138645684 [<a href="https://www.scopus.com/record/display.uri?eid=2-s2.0-85024916811&origin=inward&txGid=ccbd898ef56f7401099965a81d5e7209">url</a>]</span>
+<p style="margin-bottom:4px;"><div><em>Analysis of Construction Trade Worker Body Motions Using a Wearable and Wireless Motion Sensor Network</em></div>
+E Valero, A Sivanathan, F Bosché, M Abdel-Wahab - Automation in Construction, 2017, 83, 48-55 [<a href="https://authors.elsevier.com/a/1VdzH3IhXMblHM">url</a>].</p>
+
+<p style="margin-bottom:4px;"><div><span style="color:#00ccff;"><em>A Semantic Approach to Enrich User Experience in Museums through Indoor Positioning </em></span></div>
+<span style="color:#00ccff;">J Duque, C Cerrada, E Valero, J Cerrada - Ubiquitous Computing and Ambient Intelligence: 11th International Conference, UCAmI 2017, Philadelphia, PA, USA, November, 2017, 612-623 [<a href="https://link.springer.com/chapter/10.1007/978-3-319-67585-5_60">url</a>]. </span></p>
+
+<p style="margin-bottom:4px;"><div><span style="color:#00ccff;"><em>Historic Digital Survey: Towards Objective, Safe and Cost-Effective Surveys of Historic Buildings </em></span></div>
+<span style="color:#00ccff;">E Valero, F Bosché, A Forster, L Wilson, A Leslie, E Hyslop - Global Challenges in Cultural Heritage: Inaugural International Conference. Stirling (UK), September, 2017. </span></p>
+
+<p style="margin-bottom:4px;"><div><span style="color:#00ccff;"><em>Locating multiple camera sensors and wireless access points for a Generalized Indoor Positioning System</em></span></div>
+<span style="color:#00ccff;">J Duque, C Cerrada, E Valero, J Cerrada - The 13th International Conference on Wireless and Mobile Communications. Nice (France), July, 2017 [<a href="http://www.thinkmind.org/index.php?view=article&articleid=icwmc_2017_3_20_20082">url</a>]. </span></p>
+
+<p style="margin-bottom:4px;"><div><span style="color:#00ccff;"><em>Experiencias de predicción para un sistema de posicionamiento de uso en recintos de interior basado en cámaras 3D de bajo coste y redes inalámbricas </em></span></div>
+<span style="color:#00ccff;">J Duque, C Cerrada, E Valero, J Cerrada - Jornadas Nacionales de Robótica. Valencia (Spain), June, 2017. </span></p>
+
+<p style="margin-bottom:4px;"><div><span style="color:#00ccff;"><em>UrbanPlanAR: BIM Mobile Visualisation in Urban Environments with Occlusion-Aware Augmented Reality</em></span></div>
+<span style="color:#00ccff;">L Carozza, E Valero, F Bosché, G Banfill, R Mall, M Nguyen - Lean & Computing in Construction Congress. Heraklion (Greece), July, 2017 [<a href="http://itc.scix.net/data/works/att/LC3_2017_paper_152.pdf">url</a>]</span></p>
+
+<p style="margin-bottom:4px;"><div><em>Deciphering Egyptian hieroglyphs: towards a new strategy for navigation in museums</em></div>
+J Duque, PJ Herrera, E Valero, C Cerrada - Sensors, 2017, 17(3), 589 [<a href="http://www.mdpi.com/1424-8220/17/3/589">url</a>]</p>
+
+<p style="margin-bottom:4px;"><span style="color:#0000ff;"><em>Evaluation of Historic Masonry Substrates: Towards Greater Objectivity and Efficiency</em></span>
+<span style="color:#0000ff;"> E Valero, F Bosché, A Forster, L Wilson, A Leslie - in Heritage Building Information Modelling, Routledge. ISBN 9781138645684 [<a href="https://www.scopus.com/record/display.uri?eid=2-s2.0-85024916811&origin=inward&txGid=ccbd898ef56f7401099965a81d5e7209">url</a>]</span></p>
+
 
 <h4>2016</h4>
 
-<div><em>Integration of RFID with other Technologies in Construction</em></div>
-E Valero, A Adán - Measurement, 2016, 94, 614-620 [<a href="http://www.sciencedirect.com/science/article/pii/S0263224116304997">url</a>]
-<div><span style="color:#00ccff;"><em>Automatic Surface Flatness Control using Terrestrial Laser Scanning Data and the 2D Continuous Wavelet Transform</em></span></div>
-<span style="color:#00ccff;">E Valero, F Bosché - 33rd International Symposium on Automation and Robotics in Construction (ISARC). Auburn (USA), July, 2016 [<a href="http://www.iaarc.org/publications/fulltext/ISARC2016-Paper011.pdf">url</a>].</span>
-<div><em>Indoor Positioning System Using Depth Maps and Wireless Networks</em></div>
-J Duque, C Cerrada, E Valero, J A Cerrada - Journal of Sensors, 2016, 2107872 [<a href="http://www.hindawi.com/journals/js/2016/2107872/">url</a>]
-<div><span style="color:#00ccff;"><em>Comparison of 3D Reality Capture Technologies for the Survey of Stone Walls</em></span></div>
-<span style="color:#00ccff;">E Valero, F Bosché, A Forster, L Wilson, A Leslie -  Arqueológica 2.0. Valencia (Spain), September, 2016. </span>
+<p style="margin-bottom:4px;"><div><em>Integration of RFID with other Technologies in Construction</em></div>
+E Valero, A Adán - Measurement, 2016, 94, 614-620 [<a href="http://www.sciencedirect.com/science/article/pii/S0263224116304997">url</a>]</p>
+
+<p style="margin-bottom:4px;"><div><span style="color:#00ccff;"><em>Automatic Surface Flatness Control using Terrestrial Laser Scanning Data and the 2D Continuous Wavelet Transform</em></span></div>
+<span style="color:#00ccff;">E Valero, F Bosché - 33rd International Symposium on Automation and Robotics in Construction (ISARC). Auburn (USA), July, 2016 [<a href="http://www.iaarc.org/publications/fulltext/ISARC2016-Paper011.pdf">url</a>].</span></p>
+
+<p style="margin-bottom:4px;"><div><em>Indoor Positioning System Using Depth Maps and Wireless Networks</em></div>
+J Duque, C Cerrada, E Valero, J A Cerrada - Journal of Sensors, 2016, 2107872 [<a href="http://www.hindawi.com/journals/js/2016/2107872/">url</a>]</p>
+
+<p style="margin-bottom:4px;"><div><span style="color:#00ccff;"><em>Comparison of 3D Reality Capture Technologies for the Survey of Stone Walls</em></span></div>
+<span style="color:#00ccff;">E Valero, F Bosché, A Forster, L Wilson, A Leslie -  Arqueológica 2.0. Valencia (Spain), September, 2016. </span></p>
 
 <span style="color:#00ccff;"><em>People Positioning System with Low-Cost 3D Cameras and Wireless Devices for Indoor Environments</em></span>
-<span style="color:#00ccff;">J Duque, C Cerrada, E Valero - Robocity16 Conference. Madrid (Spain), May, 2016. </span>
-<div><em>Musculoskeletal Disorders in Construction: A Review and a Novel System for Activity Tracking with Body Area Network</em></div>
-E Valero, A Sivanathan, F Bosché, M Abdel-Wahab - Applied Ergonomics, 2016, 54, 120-130 [<a href="http://www.sciencedirect.com/science/article/pii/S0003687015301204">url</a>]
+<span style="color:#00ccff;">J Duque, C Cerrada, E Valero - Robocity16 Conference. Madrid (Spain), May, 2016. </span></p>
+
+<p style="margin-bottom:4px;"><div><em>Musculoskeletal Disorders in Construction: A Review and a Novel System for Activity Tracking with Body Area Network</em></div>
+E Valero, A Sivanathan, F Bosché, M Abdel-Wahab - Applied Ergonomics, 2016, 54, 120-130 [<a href="http://www.sciencedirect.com/science/article/pii/S0003687015301204">url</a>]</p>
 
 <h4>2015</h4>
 
