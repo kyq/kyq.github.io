@@ -94,7 +94,7 @@ J Duque, C Cerrada, E Valero, J A Cerrada - Journal of Sensors, 2016, 2107872 [<
 <p style="margin-bottom:4px;"><div><span style="color:#00ccff;"><em>Comparison of 3D Reality Capture Technologies for the Survey of Stone Walls</em></span></div>
 <span style="color:#00ccff;">E Valero, F Bosché, A Forster, L Wilson, A Leslie -  Arqueológica 2.0. Valencia (Spain), September, 2016. </span></p>
 
-<span style="color:#00ccff;"><em>People Positioning System with Low-Cost 3D Cameras and Wireless Devices for Indoor Environments</em></span>
+<p style="margin-bottom:4px;"><span style="color:#00ccff;"><em>People Positioning System with Low-Cost 3D Cameras and Wireless Devices for Indoor Environments</em></span>
 <span style="color:#00ccff;">J Duque, C Cerrada, E Valero - Robocity16 Conference. Madrid (Spain), May, 2016. </span></p>
 
 <p style="margin-bottom:4px;"><div><em>Musculoskeletal Disorders in Construction: A Review and a Novel System for Activity Tracking with Body Area Network</em></div>
