@@ -14,12 +14,13 @@ If you would like a copy of any of these publications, please <a href="/contact/
 
 <p style="margin-bottom:2px;"><em>Development of an Open Source Scan&BIM Platform </em></p>
 
-<p style="margin-bottom:4px;"><E Valero, D D Mohanty, F Bosché </p>
+<p style="margin-bottom:4px;"> E Valero, D D Mohanty, F Bosché </p>
 
 
 <h4>2020</h4>
 
 <div><span style="color:#00ccff;"><em>Development of a novel open tool for the segmentation of 3D point clouds of masonry walls </em></span>
+
 <span style="color:#00ccff;">E Valero, F Bosché, A Forster, I M'Beirick, L Wilson, A Turmel, E Hyslop - Accepted in Stone 2020.</span></div>
 
 <h4>2019</h4>
