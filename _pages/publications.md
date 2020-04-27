@@ -19,9 +19,9 @@ If you would like a copy of any of these publications, please <a href="/contact/
 
 <h4>2020</h4>
 
-<div><span style="color:#00ccff;"><em>Development of a novel open tool for the segmentation of 3D point clouds of masonry walls </em></span>
+<div><span style="color:#00ccff;"><em>Development of a novel open tool for the segmentation of 3D point clouds of masonry walls </em></span></div>
 
-<span style="color:#00ccff;">E Valero, F Bosché, A Forster, I M'Beirick, L Wilson, A Turmel, E Hyslop - Accepted in Stone 2020.</span></div>
+<span style="color:#00ccff;">E Valero, F Bosché, A Forster, I M'Beirick, L Wilson, A Turmel, E Hyslop - Accepted in Stone 2020.</span>
 
 <h4>2019</h4>
 
