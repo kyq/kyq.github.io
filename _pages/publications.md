@@ -11,7 +11,7 @@ author_profile: true
 If you would like a copy of any of these publications, please <a href="/contact/">email me</a> or have a look at my <a href="https://www.research.ed.ac.uk/portal/en/persons/enrique-valero-rodriguez(96f73e8e-f998-47ab-9fa3-6d4ca670a3e5).html">research profile</a> at the University of Edinburgh.
 
 <h4>Under preparation</h4>
-
+<div>
 <p style="margin-bottom:2px;"><em>Development of an Open Source Scan&BIM Platform </em></p>
 
 <p style="margin-bottom:2px;"> E Valero, D D Mohanty, F Bosché </p>
