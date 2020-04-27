@@ -102,16 +102,20 @@ E Valero, A Sivanathan, F Bosché, M Abdel-Wahab - Applied Ergonomics, 2016, 54,
 
 <h4>2015</h4>
 
-<div><span style="color:#0da4d3;"><em>3D Surveying Technologies and Applications: Point Clouds and Beyond. </em></span></div>
-<span style="color:#0da4d3;">F Bosché, A Forster, E Valero - Technical Report prepared for Historic Environmental Scotland </span>
-<div><span style="color:#808080;"><em>Semantic 3D Reconstruction of Furnished Interiors Using Laser Scanning and RFID Technology</em></span></div>
-<span style="color:#808080;">E Valero, A Adán, F Bosché - Journal of Computing in Civil Engineering, 2015, 04015053 [<a href="http://ascelibrary.org/doi/abs/10.1061/(ASCE)CP.1943-5487.0000525">url</a>]</span>
+<p style="margin-bottom:4px;"><div><span style="color:#0da4d3;"><em>3D Surveying Technologies and Applications: Point Clouds and Beyond. </em></span></div>
+<span style="color:#0da4d3;">F Bosché, A Forster, E Valero - Technical Report prepared for Historic Environmental Scotland </span></p>
+
+<p style="margin-bottom:4px;"><div><span style="color:#808080;"><em>Semantic 3D Reconstruction of Furnished Interiors Using Laser Scanning and RFID Technology</em></span></div>
+<span style="color:#808080;">E Valero, A Adán, F Bosché - Journal of Computing in Civil Engineering, 2015, 04015053 [<a href="http://ascelibrary.org/doi/abs/10.1061/(ASCE)CP.1943-5487.0000525">url</a>]</span></p>
+
 <div>
-<div><span style="color:#00ccff;"><em>Localización de personas mediante cámaras RGB-D y redes inalámbricas </em></span></div>
+<p style="margin-bottom:4px;"><div><span style="color:#00ccff;"><em>Localización de personas mediante cámaras RGB-D y redes inalámbricas </em></span></div>
 <span style="color:#00ccff;">J Duque, C Cerrada, E Valero - XXXVI Jornadas de Automática. Bilbao (Spain), September, 2015. Best Computer Vision Paper Award by Infaimon (In Spanish) [<a style="color:#00ccff;" href="http://www.ehu.eus/documents/3444171/4484752/52.pdf">url</a>]</span>
-<div>
-<div><span style="color:#808080;"><em>Evolution of RFID Applications in Construction: A Literature Review</em></span></div>
-<span style="color:#808080;">E Valero, A Adan, C Cerrada - Sensors 2015,15 (7), 15988-16008 [<a href="http://www.mdpi.com/1424-8220/15/7/15988">url</a>]</span>
+<div></p>
+
+<p style="margin-bottom:4px;"><div><span style="color:#808080;"><em>Evolution of RFID Applications in Construction: A Literature Review</em></span></div>
+<span style="color:#808080;">E Valero, A Adan, C Cerrada - Sensors 2015,15 (7), 15988-16008 [<a href="http://www.mdpi.com/1424-8220/15/7/15988">url</a>]</span></p>
+
 <div>
 <h4>2014</h4>
 <div><span style="color:#00ccff;"><em>Furnished Interiors Modeling with Laser Scanners and RFID </em></span></div>
