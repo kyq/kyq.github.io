@@ -14,7 +14,7 @@ If you would like a copy of any of these publications, please <a href="/contact/
 
 <p style="margin-bottom:2px;"><em>Development of an Open Source Scan&BIM Platform </em></p>
 
-<p style="margin-bottom:4px;"> E Valero, D D Mohanty, F Bosché </p>
+<p style="margin-bottom:2px;"> E Valero, D D Mohanty, F Bosché </p>
 
 
 <h4>2020</h4>
