@@ -111,7 +111,7 @@ E Valero, A Sivanathan, F Bosché, M Abdel-Wahab - Applied Ergonomics, 2016, 54,
 <div>
 <p style="margin-bottom:4px;"><div><span style="color:#00ccff;"><em>Localización de personas mediante cámaras RGB-D y redes inalámbricas </em></span></div>
 <span style="color:#00ccff;">J Duque, C Cerrada, E Valero - XXXVI Jornadas de Automática. Bilbao (Spain), September, 2015. Best Computer Vision Paper Award by Infaimon (In Spanish) [<a style="color:#00ccff;" href="http://www.ehu.eus/documents/3444171/4484752/52.pdf">url</a>]</span>
-<div></p>
+</p>
 
 <p style="margin-bottom:4px;"><div><span style="color:#808080;"><em>Evolution of RFID Applications in Construction: A Literature Review</em></span></div>
 <span style="color:#808080;">E Valero, A Adan, C Cerrada - Sensors 2015,15 (7), 15988-16008 [<a href="http://www.mdpi.com/1424-8220/15/7/15988">url</a>]</span></p>
@@ -208,8 +208,6 @@ PhD Thesis. UNED, 2013 (In Spanish) [<a href="http://e-spacio.uned.es/fez/eserv/
 </div>
 </div>
 </div>
-</div>
-</div>
-</div>
+
 
  
