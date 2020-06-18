@@ -8,13 +8,15 @@ main:
 
   - title: "Resources"
     url: /resources/
+
+  - title: "Posts"
+    url: /year-archive/
     
   - title: "Links"
     url: /links/  
     
   - title: "Contact"
     url: /contact/
-
 
             
     
