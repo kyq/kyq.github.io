@@ -190,24 +190,7 @@ PhD Thesis. UNED, 2013 (In Spanish) [<a href="http://e-spacio.uned.es/fez/eserv/
 <p style="margin-bottom:4px;"><div><span style="color:#785EF0;"><em>Landmark Real-Time Recognition and Positioning for Pedestrian Navigation</em></span></div>
 <span style="color:#785EF0;">A Adan, A Martin, E Valero, P Merchan - 14th Iberoamerican Conference on Pattern Recognition, CIARP 2009, Guadalajara, (Mexico), November, 2009. [<a style="color:#785EF0;" href="http://link.springer.com/chapter/10.1007/978-3-642-10268-4_2">url</a>]</span>
 
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
+
 
 
  
