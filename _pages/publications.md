@@ -116,7 +116,7 @@ E Valero, A Sivanathan, F Bosché, M Abdel-Wahab - Applied Ergonomics, 2016, 54,
 <p style="margin-bottom:4px;"><div><span style="color:#808080;"><em>Evolution of RFID Applications in Construction: A Literature Review</em></span></div>
 <span style="color:#808080;">E Valero, A Adan, C Cerrada - Sensors 2015,15 (7), 15988-16008 [<a href="http://www.mdpi.com/1424-8220/15/7/15988">url</a>]</span></p>
 
-<div>
+
 <h4>2014</h4>
 <div><span style="color:#785EF0;"><em>Furnished Interiors Modeling with Laser Scanners and RFID </em></span></div>
 <span style="color:#785EF0;">A Adan, E Valero - International Conference on 3D Vision 1, 95-102 [<a style="color:#785EF0;" href="http://dl.acm.org/citation.cfm?id=2758223">url</a>]</span>
