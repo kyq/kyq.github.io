@@ -118,76 +118,76 @@ E Valero, A Sivanathan, F Bosché, M Abdel-Wahab - Applied Ergonomics, 2016, 54,
 
 
 <h4>2014</h4>
-<div><span style="color:#785EF0;"><em>Furnished Interiors Modeling with Laser Scanners and RFID </em></span></div>
+<p style="margin-bottom:4px;"><div><span style="color:#785EF0;"><em>Furnished Interiors Modeling with Laser Scanners and RFID </em></span></div>
 <span style="color:#785EF0;">A Adan, E Valero - International Conference on 3D Vision 1, 95-102 [<a style="color:#785EF0;" href="http://dl.acm.org/citation.cfm?id=2758223">url</a>]</span>
-<div><span style="color:#785EF0;"><em>In-hand object localization: Simple vs. complex tactile sensors</em></span></div>
+<p style="margin-bottom:4px;"><div><span style="color:#785EF0;"><em>In-hand object localization: Simple vs. complex tactile sensors</em></span></div>
 <span style="color:#785EF0;">AS Vazquez, R Fernandez, A Lopez, E Valero, I Payo, A Adan - SENSORS, 2014 IEEE, 1710-1713 [<a style="color:#785EF0;" href="http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=6985352&tag=1">url</a>]</span>
-<div><span style="color:#785EF0;"><em>Evolution of RFID Applications in Construction: A Literature Review</em></span></div>
+<p style="margin-bottom:4px;"><div><span style="color:#785EF0;"><em>Evolution of RFID Applications in Construction: A Literature Review</em></span></div>
 <span style="color:#785EF0;">E Valero, A Adan, C Cerrada - Ubiquitous Computing and Ambient Intelligence. Personalisation and User Adapted Services: 8th International Conference, UCAmI, 2014, 191-199. Springer [<a style="color:#785EF0;" href="http://link.springer.com/chapter/10.1007/978-3-319-13102-3_32">url</a>]</span>
 <div>
 
 <h4>2013</h4>
 
-<div><span style="color:#FE6100;"><em>Robótica Cognitiva</em></span></div>
+<p style="margin-bottom:4px;"><div><span style="color:#FE6100;"><em>Robótica Cognitiva</em></span></div>
 <span style="color:#FE6100;">C Cerrada, JA Cerrada, E Valero, I Abad (Editors) - UNED, July 2013 (In Spanish)</span>
-<div><em>Generacion automatica de modelos 3D con escaneres y tecnologias inteligentes</em></div>
+<p style="margin-bottom:4px;"><div><em>Generacion automatica de modelos 3D con escaneres y tecnologias inteligentes</em></div>
 PhD Thesis. UNED, 2013 (In Spanish) [<a href="http://e-spacio.uned.es/fez/eserv/tesisuned:IngInf-Evalero/Documento.pdf">url</a>]
 <div>
 
 <h4>2012</h4>
 
-<div><span style="color:#808080;"><em>Automatic Method for Building Indoor Boundary Models from Dense Point Clouds Collected by Laser Scanners</em></span></div>
+<p style="margin-bottom:4px;"><div><span style="color:#808080;"><em>Automatic Method for Building Indoor Boundary Models from Dense Point Clouds Collected by Laser Scanners</em></span></div>
 <span style="color:#808080;">E Valero, A Adan, C Cerrada - Sensors 2012, 12(12), 16099-16115 [<a href="http://www.mdpi.com/1424-8220/12/12/16099/htm">url</a>]</span>
 <div>
 
-<span style="color:#785EF0;"><em>Reconstrucción precisa de interiores con escáner 3D y tecnologías RFID</em></span>
+<p style="margin-bottom:4px;"><span style="color:#785EF0;"><em>Reconstrucción precisa de interiores con escáner 3D y tecnologías RFID</em></span>
 <span style="color:#785EF0;"> E Valero, A Adan, C Cerrada - XXXIII Jornadas de Automática. Vigo (Spain), September, 2012. Best Computer Vision Paper Award by Infaimon (In Spanish)</span>
 <div>
-<div><span style="color:#785EF0;"><em>Building automatic indoor boundary models from dense point clouds</em></span></div>
+<p style="margin-bottom:4px;"><div><span style="color:#785EF0;"><em>Building automatic indoor boundary models from dense point clouds</em></span></div>
 <span style="color:#785EF0;">E Valero, A Adan, C Cerrada - IEEE IV'12. Workshop: Perception in Robotics. Alcalá de Henares (Spain), June, 2012</span>
 <div>
-<div><span style="color:#808080;"><em>Managing RFID Sensors Networks with a General Purpose RFID Middleware</em></span></div>
+<p style="margin-bottom:4px;"><div><span style="color:#808080;"><em>Managing RFID Sensors Networks with a General Purpose RFID Middleware</em></span></div>
 <span style="color:#808080;">I Abad, C Cerrada, JA Cerrada, R Heradio, E Valero - Sensors 2012, 12(6), 7719-7737 [<a href="http://www.mdpi.com/1424-8220/12/6/7719/htm">url</a>]</span>
 <div>
-<div><span style="color:#808080;"><em>Automatic Construction of 3D Basic-Semantic Models of Inhabited Interiors Using Laser Scanners and RFID Sensors</em> </span></div>
+<p style="margin-bottom:4px;"><div><span style="color:#808080;"><em>Automatic Construction of 3D Basic-Semantic Models of Inhabited Interiors Using Laser Scanners and RFID Sensors</em> </span></div>
 <span style="color:#808080;">E Valero, A Adan and C Cerrada - Sensors 2012, 12(5), 5705-5724 [<a href="http://www.mdpi.com/1424-8220/12/5/5705/htm">url</a>]</span>
 <div>
 
 <h4>2011</h4>
 
-<div><span style="color:#785EF0;"><em>Automatic Basic Indoor Model Generation with RFID and 3D Scanner </em></span></div>
+<p style="margin-bottom:4px;"><div><span style="color:#785EF0;"><em>Automatic Basic Indoor Model Generation with RFID and 3D Scanner </em></span></div>
 <span style="color:#785EF0;">E Valero, A Adan, C Cerrada - 5th International Symposium on Ubiquitous Computing and Ambient Intelligent, UCAmI'11. Riviera Maya (México). December, 2011.</span>
 <div>
-<div><span style="color:#785EF0;"><em>Detection, Modeling and Classification of Moldings for Automated Reverse Engineering of Buildings from 3D Data </em> </span></div>
+<p style="margin-bottom:4px;"><div><span style="color:#785EF0;"><em>Detection, Modeling and Classification of Moldings for Automated Reverse Engineering of Buildings from 3D Data </em> </span></div>
 <span style="color:#785EF0;">E Valero, A Adan, D Huber, C Cerrada - International Symposium on Automatics and Robotics in Construction, ISARC 2011. Seoul (Korea), July, 2011. [<a style="color:#785EF0;" href="https://www.iaarc.org/publications/fulltext/S16-2.pdf">url</a>]</span>
 <div>
-<div><span style="color:#785EF0;"><em>3D-Vision Recognition Assisted by Smart Tags</em></span></div>
+<p style="margin-bottom:4px;"><div><span style="color:#785EF0;"><em>3D-Vision Recognition Assisted by Smart Tags</em></span></div>
 <span style="color:#785EF0;">C Cerrada, E Valero, I Abad, J Cerrada - 5th Annual IEEE International Conference on RFID. Orlando (USA), April, 2011.</span>
 <div>
 
 <h4>2010</h4>
 
-<em>Análisis de datos 3D y programación de tecnologías inteligentes: hacia la integración sensorial. </em> Memoria de los períodos docente e investigador para la obtención del Diploma de Estudios Avanzados en Mecatrónica. Universidad de Castilla-La Mancha, Ciudad Real. Diciembre, 2010. (In Spanish)
+<p style="margin-bottom:4px;"><em>Análisis de datos 3D y programación de tecnologías inteligentes: hacia la integración sensorial. </em> Memoria de los períodos docente e investigador para la obtención del Diploma de Estudios Avanzados en Mecatrónica. Universidad de Castilla-La Mancha, Ciudad Real. Diciembre, 2010. (In Spanish)
 <div>
-<div><span style="color:#FE6100;"><em> Reconocimiento de molduras en interiores con escáneres </em></span></div>
+<p style="margin-bottom:4px;"><div><span style="color:#FE6100;"><em> Reconocimiento de molduras en interiores con escáneres </em></span></div>
 <span style="color:#FE6100;">E Valero, A Adan, D Huber, C Cerrada - Visión en Robótica. Universidad Rey Juan Carlos, Madrid. Octubre, 2010. (In Spanish)</span>
 <div>
-<div><span style="color:#785EF0;"><em>Plataforma Experimental para la Navegación Asistida por Etiquetas NFC de un Robot Móvil </em></span></div>
+<p style="margin-bottom:4px;"><div><span style="color:#785EF0;"><em>Plataforma Experimental para la Navegación Asistida por Etiquetas NFC de un Robot Móvil </em></span></div>
 <span style="color:#785EF0;">C Cerrada, JI Bermejo, E Valero, JF Estívariz, I Abad - XXXI Jornadas de Automática. Jaén (Spain), Septiembre, 2010. (In Spanish)</span>
 <div>
-<div><span style="color:#785EF0;"><em>Diseño y Construcción de Robots de Bajo Coste para Experimentación con Tecnologías RFID </em></span></div>
+<p style="margin-bottom:4px;"><div><span style="color:#785EF0;"><em>Diseño y Construcción de Robots de Bajo Coste para Experimentación con Tecnologías RFID </em></span></div>
 <span style="color:#785EF0;">C Cerrada, JI Bermejo, E Valero, JF Estívariz, I Abad - XXXI Jornadas de Automática. Jaén (Spain), Septiembre, 2010. (In Spanish)</span>
 <div>
-<div><span style="color:#785EF0;"><em>Building an Automatic 3D Vision Recognition System Assisted by Smart Tags</em></span></div>
+<p style="margin-bottom:4px;"><div><span style="color:#785EF0;"><em>Building an Automatic 3D Vision Recognition System Assisted by Smart Tags</em></span></div>
 <span style="color:#785EF0;">E Valero, C Cerrada, I Abad, J Cerrada, A Adan - RFID SysTech 2010. European Workshop on Smart Objects: Systems, Technologies and Applications. Ciudad Real (Spain), June, 2010. [<a style="color:#785EF0;" href="http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=5759285">url</a>]</span>
 <div>
 
 <h4>2009</h4>
 
-<div><span style="color:#785EF0;"><em>Grasp Registration and Learning in Virtual Reality Environments</em></span></div>
+<p style="margin-bottom:4px;"><div><span style="color:#785EF0;"><em>Grasp Registration and Learning in Virtual Reality Environments</em></span></div>
 <span style="color:#785EF0;">E Valero, A Adan - 8th WSEAS International Conference on Computational Intelligence, Man-Machine Systems and Cybernetics. Tenerife (Spain), December, 2009. [<a style="color:#785EF0;" href="http://www.wseas.us/e-library/conferences/2009/tenerife/CIMMACS/CIMMACS-05.pdf">url</a>]</span>
 <div>
-<div><span style="color:#785EF0;"><em>Landmark Real-Time Recognition and Positioning for Pedestrian Navigation</em></span></div>
+<p style="margin-bottom:4px;"><div><span style="color:#785EF0;"><em>Landmark Real-Time Recognition and Positioning for Pedestrian Navigation</em></span></div>
 <span style="color:#785EF0;">A Adan, A Martin, E Valero, P Merchan - 14th Iberoamerican Conference on Pattern Recognition, CIARP 2009, Guadalajara, (Mexico), November, 2009. [<a style="color:#785EF0;" href="http://link.springer.com/chapter/10.1007/978-3-642-10268-4_2">url</a>]</span>
 
 </div>
