@@ -18,8 +18,11 @@ E Valero, D D Mohanty, F Bosché
 
 <h4>2020</h4>
 
+<p style="margin-bottom:4px;"><div><span style="color:#785EF0;"><em>Development of an Open Source Scan&BIM Platform </em></span></div>
+<span style="color:#785EF0;">E Valero, D D Mohanty, F Bosché - Accepted in ISARC 2020.</span></p>
+
 <p style="margin-bottom:4px;"><div><span style="color:#785EF0;"><em>Development of a novel open tool for the segmentation of 3D point clouds of masonry walls </em></span></div>
-<span style="color:#785EF0;">E Valero, F Bosché, A Forster, I M'Beirick, L Wilson, A Turmel, E Hyslop - Accepted in Stone 2020.</span></p>
+<span style="color:#785EF0;">E Valero, F Bosché, A Forster, I M'Beirick, L Wilson, A Turmel, E Hyslop - Stone 2020 Conference. September 2020 [<a href="https://cyberbuild.eng.ed.ac.uk/sites/cyberbuild.eng.ed.ac.uk/files/attachments/freestyle-page/20200801/Valero_2020_Stone.pdf">url</a>].</span></p>
 
 <h4>2019</h4>
 
