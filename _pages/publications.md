@@ -12,8 +12,8 @@ If you would like a copy of any of these publications, please <a href="/contact/
 
 <h4>Under preparation</h4>
 <div>
-<div><em>Development of an Open Source Scan&BIM Platform </em></div>
-E Valero, D D Mohanty, F Bosché 
+<div><em>Digital Documentation, Computer Vision and Machine Learning for Masonry Survey, Maintenance and Repair </em></div>
+F Bosché, A Forster, E Valero 
 
 
 <h4>2020</h4>
