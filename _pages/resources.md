@@ -9,7 +9,7 @@ author_profile: true
 
 Plugin developed as part of the Historic Digital Survey (HDS) research work, which is a tool for CloudCompare that enables the segmentation of dense point clouds (principally from laser scanning) of masonry structures into their individual stones. You can find the source code <a href="https://github.com/CyberbuildLab/masonry-cc">here</a>.
 
-<img class="  wp-image-774 aligncenter" src="https://beyondthepointclouds.files.wordpress.com/2020/10/stones.png" alt="stones.PNG" height="300" />
+<img class="  wp-image-774 aligncenter" src="https://beyondthepointclouds.files.wordpress.com/2020/10/stones.png" alt="stones.PNG" width="425" height="300" />
 
 <strong>Point clouds (e57 open format)</strong>
 
