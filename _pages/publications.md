@@ -22,6 +22,9 @@ F Bosché, A Forster, E Valero
 
 <h4>2020</h4>
 
+<p style="margin-bottom:4px;"><div><span style="color:#DC267F;"><em>Innovative Scan-to-BIM tools for Automated BIM v1. </em></span></div>
+<span style="color:#DC267F;">E Valero, F Bosché, et al. - <a href="https://bimerr.eu/">url</a> Deliverable </span></p>
+
 <p style="margin-bottom:4px;"><div><span style="color:#785EF0;"><em>Development of an Open Source Scan&BIM Platform </em></span></div>
 <span style="color:#785EF0;">E Valero, D D Mohanty, F Bosché - ISARC 2020. November 2020. [<a href="http://www.iaarc.org/publications/2020_proceedings_of_the_37th_isarc/development_of_an_open_source_scanbim_platform.html">url</a>]</span></p>
 
