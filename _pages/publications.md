@@ -15,11 +15,15 @@ If you would like a copy of any of these publications, please <a href="/contact/
 <div><em>Digital Documentation, Computer Vision and Machine Learning for Masonry Survey, Maintenance and Repair </em></div>
 F Bosché, A Forster, E Valero 
 
+<h4>2021</h4>
+
+<p style="margin-bottom:4px;"><div><span style="color:#785EF0;"><em>Automatic MEP Component Detection with Deep Learning</em></span></div>
+<span style="color:#785EF0;">J Kufuor, D D Mohanty, E Valero, F Bosché -   International Conference on Pattern Recognition ICPR 2021: Pattern Recognition. ICPR International Workshops and Challenges. [<a href="https://link.springer.com/chapter/10.1007%2F978-3-030-68787-8_28">url</a>]</span></p>
 
 <h4>2020</h4>
 
 <p style="margin-bottom:4px;"><div><span style="color:#785EF0;"><em>Development of an Open Source Scan&BIM Platform </em></span></div>
-<span style="color:#785EF0;">E Valero, D D Mohanty, F Bosché - Accepted in ISARC 2020.</span></p>
+<span style="color:#785EF0;">E Valero, D D Mohanty, F Bosché - ISARC 2020. November 2020. [<a href="http://www.iaarc.org/publications/2020_proceedings_of_the_37th_isarc/development_of_an_open_source_scanbim_platform.html">url</a>]</span></p>
 
 <p style="margin-bottom:4px;"><div><span style="color:#785EF0;"><em>Development of a novel open tool for the segmentation of 3D point clouds of masonry walls </em></span></div>
 <span style="color:#785EF0;">E Valero, F Bosché, A Forster, I M'Beirick, L Wilson, A Turmel, E Hyslop - Stone 2020 Conference. September 2020 [<a href="https://cyberbuild.eng.ed.ac.uk/sites/cyberbuild.eng.ed.ac.uk/files/attachments/freestyle-page/20200801/Valero_2020_Stone.pdf">url</a>].</span></p>
