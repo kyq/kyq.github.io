@@ -22,7 +22,7 @@ F Bosché, A Forster, E Valero
 
 <h4>2020</h4>
 
-<p style="margin-bottom:4px;"><div><span style="color:#DC267F;"><em>Innovative Scan-to-BIM tools for Automated BIM v1. </em></span></div>
+<p style="margin-bottom:4px;"><div><span style="color:#DC267F;"><em>Innovative Scan-to-BIM tools for Automated BIM v1 </em></span></div>
 <span style="color:#DC267F;">E Valero, F Bosché, et al. - <a href="https://bimerr.eu/">BIMERR</a> Deliverable </span></p>
 
 <p style="margin-bottom:4px;"><div><span style="color:#785EF0;"><em>Development of an Open Source Scan&BIM Platform </em></span></div>
