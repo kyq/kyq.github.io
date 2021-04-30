@@ -7,7 +7,7 @@ author_profile: true
 
 <Strong>Scan-to-BIM binaries and datasets</Strong>
 
-Software and datasets for creating BIM models (IFC standard) from point clouds of inhabited buildings. You can find the material  <a href="https://datashare.ed.ac.uk/handle/10283/3712"here</a>.
+Software and datasets for creating BIM models (IFC standard) from point clouds of inhabited buildings. You can find the material  <a href="https://datashare.ed.ac.uk/handle/10283/3712">here</a>.
 
 <strong>Masonry Segmentation CloudCompare plugin</strong>
 
