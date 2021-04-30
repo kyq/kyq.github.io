@@ -5,6 +5,10 @@ permalink: /resources/
 author_profile: true
 ---
 
+<Strong>Scan-to-BIM binaries and datasets</Strong>
+
+Software and datasets for creating BIM models (IFC standard) from point clouds of inhabited buildings. You can find the material  <a href="https://datashare.ed.ac.uk/handle/10283/3712"here</a>.
+
 <strong>Masonry Segmentation CloudCompare plugin</strong>
 
 Plugin developed as part of the Historic Digital Survey (HDS) research work, which is a tool for CloudCompare that enables the segmentation of dense point clouds (principally from laser scanning) of masonry structures into their individual stones. You can find the source code <a href="https://github.com/CyberbuildLab/masonry-cc">here</a>.
