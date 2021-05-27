@@ -15,6 +15,9 @@ If you would like a copy of any of these publications, please <a href="/contact/
 <div><em>Digital Documentation, Computer Vision and Machine Learning for Masonry Survey, Maintenance and Repair </em></div>
 F Bosché, A Forster, E Valero 
 
+<div><em>Integrated Scan-to-BIM Approach for Energy Efficient Retrofit of Buildings </em></div>
+E Valero, DD Mohanty, M Ceklarz, F Bosché, G Giannakis, S Fenz
+
 <h4>2021</h4>
 
 <p style="margin-bottom:4px;"><div><span style="color:#785EF0;"><em>Automatic MEP Component Detection with Deep Learning</em></span></div>
