@@ -12,11 +12,11 @@ If you would like a copy of any of these publications, please <a href="/contact/
 
 <h4>Under preparation</h4>
 <div>
-<div><em>Digital Documentation, Computer Vision and Machine Learning for Masonry Survey, Maintenance and Repair </em></div>
-F Bosché, A Forster, E Valero 
+<p style="margin-bottom:4px;"><div><em>Digital Documentation, Computer Vision and Machine Learning for Masonry Survey, Maintenance and Repair </em></div>
+F Bosché, A Forster, E Valero </p>
 
-<div><em>Integrated Scan-to-BIM Approach for Energy Efficient Retrofit of Buildings </em></div>
-E Valero, DD Mohanty, M Ceklarz, F Bosché, G Giannakis, S Fenz
+<p style="margin-bottom:4px;"><div><em>Integrated Scan-to-BIM Approach for Energy Efficient Retrofit of Buildings </em></div>
+E Valero, DD Mohanty, M Ceklarz, F Bosché, G Giannakis, S Fenz </p>
 
 <h4>2021</h4>
 
