@@ -11,5 +11,5 @@ University of Edinburgh
 Edinburgh EH9 3JF</div>
 <div class="confit-phone"></div>
 <div class="confit-hours"></div>
-<div class="confit-hours">enrique [at] diomede.es</div>
+<div class="confit-hours">enrique [at] diomede [dot] es</div>
 <div></div>
